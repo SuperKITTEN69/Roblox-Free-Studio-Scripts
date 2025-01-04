@@ -13,3 +13,5 @@ SpinningPart - A script that makes a part spin.
 CoinV2 - Same as Coin but has a spinning animation and the coin respawns in 3 seconds.
 
 CoinV3 - Same as CoinV2 but with a leaderstats script that lets you see how many coins you have, the coins save so if you leave the game you dont need to think about losing your coins.
+
+CoinV4 - Same as CoinV3 but now the coins have different rarities.
