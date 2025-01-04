@@ -9,3 +9,5 @@ GroupRankToolGiver - Gives the player a specific tool if the player is in a spec
 Coin - A coin model with a script that deletes the coin when touched and prints a specific text.
 
 SpinningPart - A script that makes a part spin.
+
+CoinV2 - Same as Coin but has a spinning animation and the coin respawns in 3 seconds.
